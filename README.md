@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Job Application Tracker & Helper](https://github.com/iskandarreza/job-application-helper)
 
-- 🌱 I’m currently learning **Google Apps Script, OpenAI API, Cohere**
+- 🌱 I’m currently learning **Python, OpenAI API, Google Apps Script, Cohere**
 
 - 💬 Ask me about **Wildflowers, Moss, Astronomy**
 
