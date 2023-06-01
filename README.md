@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Izzy</h1>
 <h3 align="center">Versatile Frontend Developer and UI/UX Designer | Delivering Intuitive, User-Centered Web Solutions through Collaborative Design and Development Strategies</h3>
 
-- 🔭 I’m currently working on [LoopGPT multi agent research](https://github.com/iskandarreza/loopgpt/tree/multi-agent-research)
+- 🔭 I’m currently working on [Self-instructing, multi-agent web workers](https://github.com/iskandarreza/ai-worker-js/tree/dev/agent-rewrite)
 
 - 🌱 I’m currently learning **Python, OpenAI API, Google Apps Script, Cohere**
 
